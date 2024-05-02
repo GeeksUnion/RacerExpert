@@ -77,8 +77,9 @@ Note: There are 5 kinds of equipment, which can be used to inlay racing cars to 
 
 Note: A valid account participates in at least 1 game per season, and the game account needs $100 at 0 o'clock every day.
 ![image](https://github.com/GeeksUnion/RacerExpert/assets/168499537/d1e6d6da-14f1-4fcc-afca-4bdd44e25b33)
-3. Guild Alliance
+### 3. Guild Alliance
 ![image](https://github.com/GeeksUnion/RacerExpert/assets/168499537/3af71f64-c16d-4938-86ff-c119ed76bd77)
-
-
+### 4. Contribution value
+For every 100 games participated in USD by a player, 1 contribution value is obtained.
+![image](https://github.com/GeeksUnion/RacerExpert/assets/168499537/7cb7b977-adb7-4d1f-a8b8-3d8185d65f43)
 
