@@ -56,3 +56,29 @@ Individuals, teams, and communities can participate, using machine gun pool DeFi
 ### 1. Competitive gameplay
 
 Five people can participate in the $50 junior competition and the $100 advanced competition. The game ends when the room is full for 5 minutes, and the order is randomly generated.
+![image](https://github.com/GeeksUnion/RacerExpert/assets/168499537/bd194759-0aa5-45f2-b98f-052fff115b56)
+1. Use the resurrection card (obtained by opening the blind box). Note: The resurrection card is valid for 48 hours.
+2. Create 2 rooms within 48 hours and complete the game, add $100 to thaw, and receive $100＋100B coins in 4 hours. (Note: B coin stable token, return $ when participating in the game.)
+Note: The time interval for creating a room is 10 minutes. Each room only allows one address to use B coins to participate in the game.
+3. If you do not complete the creation of 2 rooms within 48 hours, a glory NFT will be automatically generated. The glory NFT can participate in the leaderboard dividend, open the blind box, or exchange computing power for value stacking. | Blind box - Open the blind box with 5 glory NFTs to get a package worth 80%-120% (A coin·B coin·computing power·resurrection card·equipment)
+Note: There are 5 kinds of equipment, which can be used to inlay racing cars to improve the probability of winning first place. Inlay one ＋1% winning rate.
+    
+    Exchange computing power - 1:1 exchange, daily production decreases by 1.5% C coin ＋1.5% B coin. (C coin has unlimited appreciation space.) | 
+    
+    ①The first place can also choose to get 1 energy value (principal ＋12%), when accumulating 10 energy values,
+    You can get a crystal, and opening the crystal can get an additional value return of more than 20%.
+    
+    ②The income is settled in B stable coins, and A is flash exchanged for $, with a 10% handling fee.
+    
+    ③Each game takes 1% fuel fee +1% car rental fee | Leaderboard - 4% of each completed game enters the leaderboard prize pool, the leaderboard is divided once every 7 days, the entire network is ranked by the number of glory NFTs obtained in each season. 1-10 place 30% mainstream currency, 11-20 place 30% B coin, 21-50 place 40% B coin.
+    
+
+### 2. Team income
+
+Note: A valid account participates in at least 1 game per season, and the game account needs $100 at 0 o'clock every day.
+![image](https://github.com/GeeksUnion/RacerExpert/assets/168499537/d1e6d6da-14f1-4fcc-afca-4bdd44e25b33)
+3. Guild Alliance
+![image](https://github.com/GeeksUnion/RacerExpert/assets/168499537/3af71f64-c16d-4938-86ff-c119ed76bd77)
+
+
+
