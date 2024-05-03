@@ -82,4 +82,23 @@ Note: A valid account participates in at least 1 game per season, and the game a
 ### 4. Contribution value
 For every 100 games participated in USD by a player, 1 contribution value is obtained.
 ![image](https://github.com/GeeksUnion/RacerExpert/assets/168499537/7cb7b977-adb7-4d1f-a8b8-3d8185d65f43)
+## VIII. Core Goals of the Geeks Union
 
+**Technical Route
+Geeks Union Technical Route**
+
+**1. Through continuous deep plowing and precipitation in the gamefi track, "Racer Expert" is realized in the web3 field. Evolution and expansion, becoming a standard plug-in for betting classic models.**
+
+Through continuous deep plowing and precipitation in the gamefi track, "Racer Expert" is realized in the web3 field. Evolution and expansion, becoming a standard plug-in for betting classic models.
+In the game world, the most basic algorithms in the economic model, including productivity output, centralized planning and distribution, and betting and bidding auctions. 
+
+The logical algorithms in traditional games are usually borrowed in the blockchain games, but they are all their own algorithms, and they cannot realize the intercommunication and recognition of the underlying logic of the blockchain, which does not conform to the spirit of the blockchain. 
+
+Betting and bidding auction is a routine algorithm, but it contains the most basic logic and economic distribution of the Web3 concept. 
+
+Cross-chain games are the inevitable way for future games, and basic algorithms such as betting will become the basic plug-ins and standard protocols of chain games. 
+
+But at present, the industry has not fully focused on this direction, they are all making applications, completely ignoring the core goals and the location and value of core value. 
+
+The stunning release of the Geeks Union will be a milestone bridge linking the basic infrastructure and applications of the Gamefi track.
+**2. Build the basic application of "Racer Expert" standard plug-in in the gamefi field: realize the nesting and economic model adaptation of third-party dapps.
