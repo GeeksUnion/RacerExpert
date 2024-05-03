@@ -119,8 +119,16 @@ These are undoubtedly the driving forces for promoting the development and trans
 The birth of the Geeks Union standard plug-in and protocol can solve this problem, but the functional attributes are still difficult to meet user needs when applied to large-scale scenes. To avoid multiple car manufacturing and possible repeated calls or secondary compilation of the basic protocol, the Geeks Union will upgrade the product to meet the customized programming conditions and realize the development of the SDK, providing more game manufacturers with a hot-swappable SDK standard module. 
 
 This greatly reduces the work of secondary compilation of the economic model in game development. Users only need to set the standard module to meet the economic game custom economic model. For web3, this is a revolutionary creation. The Geeks Union will be committed to this, and work hard for the future.
+**4. "Racer Expert" will conduct a transition test via cosmos before completing the SDK and forging a freely pluggable gaming infrastructure that seamlessly crosses the chain. Create a no-threshold gaming experience on and off the chain.** 
+**Through the SDK pluggable localised deployment solution, create a private chain through the Racing Dare game ecosystem, realising the unmanaged creation of custom smart contracts (game-like protocols) by B-end users. Realise the built-in curation protocol and economic model distribution.**
+Geek Union will conduct a transition test via cosmos before completing the SDK, which is the basis for cross-chaining. It is also an important transition for standard plug-ins and protocols to the traditional market.
+Conventional chain games will always make a trade-off when implementing on-chain behavior, either choosing to go all on-chain and give up immediacy, or choosing the latter and only on-chaining valid assets. The latter is undoubtedly friendly to the gaming experience, but fails to achieve economic mutual trust and can be seen as fully centralized.
+The Geek Union then provides a solution to this problem. Based on the addition of efficient Tps and localized deployment, the Geek Union provides open programmable options for the gaming side, allowing the economic model to operate in a complete Turing black box, eliminating the possibility of doing evil.
+At the same time, Geek Union's lightweight proprietary link ensures the rate of network response, making the chain game experience exactly the same as the traditional game experience.
+Through the proprietary link enchantment and contract customization deployment, B's end users can realize the use or flow of economic models without hosting. Provide a new curation platform and economic scenario for innovative protocols.
+Through the above technical practices, Geek Union will independently create a set of passive curation protocols, and effective interactions with Geek Union will be tagged with metrics to realize the creation of the above economic scenarios. This provides creators and users with the possibility of maximizing economic benefits, which is worth looking forward to.
 
-
+**5.based on the standard plug-ins and protocols of the SDK, and the effective application of curatorial protocols, to create web3 field of the first game industry based plug-in distribution platform.**
 
 
 
