@@ -103,3 +103,22 @@ But at present, the industry has not fully focused on this direction, they are a
 The stunning release of the Geeks Union will be a milestone bridge linking the basic infrastructure and applications of the Gamefi track.
 
 **2. Build the basic application of "Racer Expert" standard plug-in in the gamefi field: realize the nesting and economic model adaptation of third-party dapps.**
+In the early stage of blockchain games, lightweight applications will flourish, various algorithms will emerge in an endless stream, styles will be chaotic, fish and dragons will be mixed, whether it is iterative innovation or shell disguise, the fundamental logic will not change. 
+
+The Geeks Union focuses on the universal practice and openness of basic algorithms, promotes the landing and application of standard interfaces, and realizes two-way universality at the technical level and application level. 
+
+Through universal practice, the Geeks Union can be hot-swapped into or nested in any application or DAPP. This will provide some motivation for the explosive growth of blockchain games.
+
+ At the same time, with the concept of the web3 economic model, the Geeks Union will uphold the open economic logic, and users can customize the economic model locally, which will encourage any user using the Geeks Union standard protocol to build their own modular applications.
+In addition, based on the standard protocol, the Geeks Union will open up the protocol itself, that is, users will be defaulted as curators after using the Geeks Union standard protocol.
+
+**3. Through touch with major game manufacturers, it can be expanded in traditional game channels, so that the standard plug-in based on web3 economic circulation has customizable programming conditions, and prepare for the upgrade of the built-in SDK module.**
+
+
+
+
+
+
+
+
+
