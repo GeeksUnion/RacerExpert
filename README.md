@@ -113,7 +113,12 @@ Through universal practice, the Geeks Union can be hot-swapped into or nested in
 In addition, based on the standard protocol, the Geeks Union will open up the protocol itself, that is, users will be defaulted as curators after using the Geeks Union standard protocol.
 
 **3. Through touch with major game manufacturers, it can be expanded in traditional game channels, so that the standard plug-in based on web3 economic circulation has customizable programming conditions, and prepare for the upgrade of the built-in SDK module.**
+In the standard plug-in, the protocol is the foundation, but in large games, the standard algorithm obviously cannot meet the needs of multi-modal scenes. The solution of traditional manufacturers is also modular development, such as physics engine, modeling, rendering layer, etc., there are also strategies for local deployment. 
 
+These are undoubtedly the driving forces for promoting the development and transformation of the game industry. But in the web3 field, these things are all centralized architecture, and there is no credible and reliable thing to link them. Although the game public chain can solve some economic model bookkeeping, etc., it cannot solve the economic distribution in the game or effective marking and trust. This makes the chain game itself a pseudo-concept in the underlying layer.
+The birth of the Geeks Union standard plug-in and protocol can solve this problem, but the functional attributes are still difficult to meet user needs when applied to large-scale scenes. To avoid multiple car manufacturing and possible repeated calls or secondary compilation of the basic protocol, the Geeks Union will upgrade the product to meet the customized programming conditions and realize the development of the SDK, providing more game manufacturers with a hot-swappable SDK standard module. 
+
+This greatly reduces the work of secondary compilation of the economic model in game development. Users only need to set the standard module to meet the economic game custom economic model. For web3, this is a revolutionary creation. The Geeks Union will be committed to this, and work hard for the future.
 
 
 
