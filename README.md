@@ -129,8 +129,18 @@ Through the proprietary link enchantment and contract customization deployment, 
 Through the above technical practices, Geek Union will independently create a set of passive curation protocols, and effective interactions with Geek Union will be tagged with metrics to realize the creation of the above economic scenarios. This provides creators and users with the possibility of maximizing economic benefits, which is worth looking forward to.
 
 **5.based on the standard plug-ins and protocols of the SDK, and the effective application of curatorial protocols, to create web3 field of the first game industry based plug-in distribution platform.**
+In the game industry, no matter mobile or desktop, there is no need to talk about the importance of the common distribution platform such as game store, which is the direct window of the game for the public users. 
 
+Geek Union is not a game store, and in the web3 world for the game to provide infrastructure distribution platform, such as simulation engine, image rendering, material elements, economic model, and play rules, general UI, etc., these are chain of the infrastructure of the game, is through the Geek Union curatorial agreement flow, 
 
+And, at the same time has a lot of alliance through the geek alliance SDK development and design of the economic model and the rules of the game. These infrastructures build the entire Web3 gaming empire.
+
+**6.realize the universal adaptation of the SDK meta-universe base module, so that "Racing Race Dare" is ubiquitous.**
+In the future world, the realization of hyper-virtual reality is certain, the meta-universe will be deeply fused with reality, and the human world will be a brand-new physical illusory space. Under the powerful virtual engine, the world model in the meta-universe has been highly consistent with human senses.
+In such an ideal conception, the Geek Union looks far ahead to see the future from a new perspective. In the modern era of technological advancement, it is now taking action to deploy the future and take root in the meta-universe foundation track.
+Geek Union will deeply adapt the meta-universe in order to realize the bridging of various types of meta-universes in the lightweight exclusive link based on localized deployment. In the future, Geek Union will not only be Geek Union.
+
+But also a common base protocol for meta-universe bridging. Through the flow of curated protocols, user behavior will be the basis for generating economic value, and the economic rules and methods of human beings will be completely changed, which is the ultimate ideal of web3's economic view.
 
 
 
