@@ -141,7 +141,22 @@ In such an ideal conception, the Geek Union looks far ahead to see the future fr
 Geek Union will deeply adapt the meta-universe in order to realize the bridging of various types of meta-universes in the lightweight exclusive link based on localized deployment. In the future, Geek Union will not only be Geek Union.
 
 But also a common base protocol for meta-universe bridging. Through the flow of curated protocols, user behavior will be the basis for generating economic value, and the economic rules and methods of human beings will be completely changed, which is the ultimate ideal of web3's economic view.
+## IX. Geeks Union Spirit
 
+Geeks Union is not a project or a product, it is the common ideal of a group of people, the common vision of this group of people in the world of web3, and it is their spiritual home, it is this spirit that unites this common dream.
+
+Geeks Union will curate and mark the user's behaviors in web3's economic model, in order to build a community based on the value of the contribution, and to feedback this value to community members.
+
+## Ten, Geeks Union Rapidly
+
+Now, "Geeks Union" set sail again, the number of tests and witnessed by the market, through the bulls and bears again at the peak; Geeks Union will push forward the new, to create the perfect chain tour, riding in the dust, exclusive.
+
+Geeks Union will be with a lot of like-minded friends to once again create a future that belongs to us, so that a limited life, with unlimited possibilities!
+
+**Geeks Union
+Geeks Union invites you to join: "Racing Man" and create the wealth code together!
+--”Racer Expert" is more exciting with you!
+The best "investment" in the present is to regain your "faith"!**
 
 
 
