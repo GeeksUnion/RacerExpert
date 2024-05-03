@@ -101,4 +101,5 @@ Cross-chain games are the inevitable way for future games, and basic algorithms 
 But at present, the industry has not fully focused on this direction, they are all making applications, completely ignoring the core goals and the location and value of core value. 
 
 The stunning release of the Geeks Union will be a milestone bridge linking the basic infrastructure and applications of the Gamefi track.
-**2. Build the basic application of "Racer Expert" standard plug-in in the gamefi field: realize the nesting and economic model adaptation of third-party dapps.
+
+**2. Build the basic application of "Racer Expert" standard plug-in in the gamefi field: realize the nesting and economic model adaptation of third-party dapps.**
